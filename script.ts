@@ -49,4 +49,3 @@ let arr2: number[] = [10, 20, 30, 40, 50];
 
 swapping(arr1, arr2);
 console.log(arr1);
-console.log(arr2);
